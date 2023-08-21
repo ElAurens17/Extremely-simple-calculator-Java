@@ -1,32 +1,3 @@
-/*
-import java.util.Scanner;
-
-public class App {
-
-  
-
-  public static void main(String[] args) throws Exception {
-    Scanner c= new Scanner(System.in);
-        System.out.println("1.Add\n" + "2.Subract\n" + "3.Multiply\n" + "4.Divide\n");  
-        int m = c.nextInt();
-        int n = c.nextInt();
-        int b = c.nextInt();
-        int v = c.nextInt();
-        System.out.println(m);
-        c.close();
-
-    Scanner x= new Scanner(System.in);
-        System.out.println("Enter q and w: ");    
-
-        int q = x.nextInt();
-        int w = x.nextInt();
-        x.close();
-
-        int result = Add(q, w);
-        System.out.println(result);
-  }
-}  */
-
 import java.util.Scanner;
 
 public class App {
