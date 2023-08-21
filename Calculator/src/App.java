@@ -69,4 +69,3 @@ public class App {
     return q / y;
   }
 }
-
